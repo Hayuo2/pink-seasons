@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(249, 166, 177);
+    box-sizing:border-box;
+    border-radius: 100%;
+    background-image: url('heart.jpg');
+}
+ 
+
+ h1 {
+    color:azure;
+    font-size: 350%;
+    
+
+ }
+ 
+ P{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    color: azure;
+ }
+
+ #pinkshoes {
+    border-radius: 8px;
+    border-image: 100%;
+    border: 1px solid;
+    padding: 4px;
+    width: 25%;
+    border-color: azure;
+    border-width: 10px;
+ }
+
+ .footwear-div {
+    display: flex;
+    gap: 5%;
+ }
+ 
+ h2 {
+    color: hotpink;
+    border-style: solid;
+    font-size: 150%;
+}
+   
+
+blockquote {
+    font-size: medium;
+    color: rgb(244, 230, 230);
+
+
+}
+p{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: var();
+}
+
+table  th,td { 
+  border: 1px solid white;
+  border-collapse: collapse; 
+  border:1px solid hotpink;
+  border-collapse: collapse;
+  width: 10%;
+  border-top-right-radius: 20px;
+  color:white;
+  border-style:groove;
+  border-width: 7px;
+  }
+ #heart{
+     width: 28vw;
+
+ }
+
+ button {
+    color:rgb(145, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+ }
+ .heart-section{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+ }
+ .heart-section .heart-img{
+    width: 18vw;
+ }
+ .heart-section .clothes-div{
+    position: relative;
+ }
+ .heart-section .clothes-div .pink-btn{
+    position: absolute;
+    top:40%;
+    left: 33%;
+ }
+ .heart-section .clothes-div .pink-btn{
+    background: transparent;
+    color: white;
+    border: none;
+    font-size: large;
+    font-weight: bold;
+ }
+
+ body {
+    padding: 0%;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+ }
+ .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+ }
+ .form-box {
+    padding: 10px;
+    border-radius: 5px;
+    background: hotpink;
+    box-shadow: 10px 10px 15px hotpink;
+ }
